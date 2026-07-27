@@ -1,0 +1,20 @@
+# Arduino / PlatformIO Build Artifacts
+build/
+.pio/
+*.hex
+*.elf
+*.bin
+
+# IDE Configuration Files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Wokwi / Simulation Artifacts
+*.vcd
+logic-capture.vcd
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
